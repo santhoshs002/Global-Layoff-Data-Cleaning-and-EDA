@@ -41,8 +41,9 @@ Setup Instructions:
 Files Included:
 
 * `layoffs.csv`: Raw dataset of global layoffs.
-* `data_cleaning.sql`: SQL script for cleaning the data.
-* `eda_queries.sql`: SQL queries for exploratory data analysis.
+* `layoffs_data_cleaning.csv`: Cleaned dataset of global layoffs.
+* `layoffs_data_cleaning.sql`: SQL script for cleaning the data.
+* `layoffs_EDA.sql`: SQL queries for exploratory data analysis.
 
 
 
