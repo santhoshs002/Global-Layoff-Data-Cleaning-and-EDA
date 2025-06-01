@@ -32,7 +32,7 @@ GitHub: For project version control and repository management.
 
 Setup Instructions:
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine
 2. Import the dataset into MySQL using the provided `.sql` file or `.csv` dataset.
 3. Run the SQL queries in the order specified to clean the data and perform EDA.
 
